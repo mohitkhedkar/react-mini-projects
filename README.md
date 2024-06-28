@@ -6,10 +6,6 @@
 
 ### Live Project link
 
-##
-
----
-
 ### List of Projects
 
 | Status             | Project Names           | Code link                          | Live Project                                         |
